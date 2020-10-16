@@ -488,14 +488,14 @@
     <string name="common_open_on_phone">Open on phone</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
-    <string name="default_web_client_id" translatable="false">888318028066-sg37lus33138ecedpf6k233rruqjka9n.apps.googleusercontent.com</string>
+    <string name="default_web_client_id" translatable="false">462952020623-36tbljkmipcp6ph6osda9q1moougk18j.apps.googleusercontent.com</string>
     <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
-    <string name="firebase_database_url" translatable="false">https://rnfirebasev7.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">888318028066</string>
-    <string name="google_api_key" translatable="false">AIzaSyBFl3SVqIb9d8Qsnc90LS6IRpNDj3SGfs8</string>
-    <string name="google_app_id" translatable="false">1:888318028066:android:c075298d035ee094b69d7b</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBFl3SVqIb9d8Qsnc90LS6IRpNDj3SGfs8</string>
-    <string name="google_storage_bucket" translatable="false">rnfirebasev7.appspot.com</string>
+    <string name="firebase_database_url" translatable="false">https://notificationv7-23489.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">462952020623</string>
+    <string name="google_api_key" translatable="false">AIzaSyAAOQD6ELtI6HKprjoLHHDUdJHMxet0lM4</string>
+    <string name="google_app_id" translatable="false">1:462952020623:android:0d9dc7ebe12c4973adcefa</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAAOQD6ELtI6HKprjoLHHDUdJHMxet0lM4</string>
+    <string name="google_storage_bucket" translatable="false">notificationv7-23489.appspot.com</string>
     <string name="header_description" translatable="false">Heading</string>
     <string name="image_description" translatable="false">Image</string>
     <string name="imagebutton_description" translatable="false">Button, Image</string>
@@ -504,7 +504,7 @@
     <string name="menubar_description" translatable="false">Menu Bar</string>
     <string name="menuitem_description" translatable="false">Menu Item</string>
     <string name="progressbar_description" translatable="false">Progress Bar</string>
-    <string name="project_id" translatable="false">rnfirebasev7</string>
+    <string name="project_id" translatable="false">notificationv7-23489</string>
     <string name="radiogroup_description" translatable="false">Radio Group</string>
     <string name="rn_tab_description" translatable="false">Tab</string>
     <string name="scrollbar_description" translatable="false">Scroll Bar</string>
@@ -1958,9 +1958,17 @@
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
+    <style name="Theme.AppInvite.Preview" parent="Theme.AppInvite.Preview.Base">
+<item name="android:colorBackground">@android:color/white</item>
+<item name="android:windowBackground">@android:color/white</item>
+<item name="android:windowIsTranslucent">true</item>
+</style>
+    <style name="Theme.AppInvite.Preview.Base" parent="@android:style/Theme.Light.NoTitleBar">
+</style>
     <style name="Theme.Catalyst"/>
     <style name="Theme.Catalyst.LogBox">
     <item name="android:windowTranslucentStatus">true</item>
+    <item name="android:windowTranslucentNavigation">false</item>
     <item name="android:windowBackground">@android:color/transparent</item>
     <item name="android:windowAnimationStyle">@style/Animation.Catalyst.LogBox</item>
     <item name="android:inAnimation">@android:anim/fade_in</item>

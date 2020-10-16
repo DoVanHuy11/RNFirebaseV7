@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">888318028066-sg37lus33138ecedpf6k233rruqjka9n.apps.googleusercontent.com</string>
-    <string name="firebase_database_url" translatable="false">https://rnfirebasev7.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">888318028066</string>
-    <string name="google_api_key" translatable="false">AIzaSyBFl3SVqIb9d8Qsnc90LS6IRpNDj3SGfs8</string>
-    <string name="google_app_id" translatable="false">1:888318028066:android:c075298d035ee094b69d7b</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBFl3SVqIb9d8Qsnc90LS6IRpNDj3SGfs8</string>
-    <string name="google_storage_bucket" translatable="false">rnfirebasev7.appspot.com</string>
-    <string name="project_id" translatable="false">rnfirebasev7</string>
+    <string name="default_web_client_id" translatable="false">462952020623-36tbljkmipcp6ph6osda9q1moougk18j.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://notificationv7-23489.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">462952020623</string>
+    <string name="google_api_key" translatable="false">AIzaSyAAOQD6ELtI6HKprjoLHHDUdJHMxet0lM4</string>
+    <string name="google_app_id" translatable="false">1:462952020623:android:0d9dc7ebe12c4973adcefa</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAAOQD6ELtI6HKprjoLHHDUdJHMxet0lM4</string>
+    <string name="google_storage_bucket" translatable="false">notificationv7-23489.appspot.com</string>
+    <string name="project_id" translatable="false">notificationv7-23489</string>
 </resources>

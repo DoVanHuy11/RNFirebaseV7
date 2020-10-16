@@ -1485,6 +1485,8 @@ style Theme_AppCompat_Light_Dialog_MinWidth
 style Theme_AppCompat_Light_DialogWhenLarge
 style Theme_AppCompat_Light_NoActionBar
 style Theme_AppCompat_NoActionBar
+style Theme_AppInvite_Preview
+style Theme_AppInvite_Preview_Base
 style Theme_Catalyst
 style Theme_Catalyst_LogBox
 style Theme_Catalyst_RedBox
